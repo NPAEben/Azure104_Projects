@@ -6,3 +6,4 @@ Follow these steps to deploy VM on a network using peering to between networks
 4. Create two Ubuntu Server Virtual Machine placing each on each networks
 5. Create a network peering between the two networks
 6. Ping the two networks
+7. 
